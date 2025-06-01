@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:understanding/gradientContainer.dart';
+import 'package:DiceApp/gradientContainer.dart';
 
 void main() {
   runApp(
